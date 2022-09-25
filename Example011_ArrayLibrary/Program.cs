@@ -45,5 +45,5 @@ array[4] = 4;
 array[6] = 4;
 PrintArray(array);
 Console.WriteLine();
-int pos = Index0f(array, 444444);
+int pos = Index0f(array, 4);
 Console.WriteLine(pos);
